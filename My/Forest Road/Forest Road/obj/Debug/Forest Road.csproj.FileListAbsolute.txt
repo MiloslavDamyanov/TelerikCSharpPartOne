@@ -1,0 +1,6 @@
+D:\code\Forest Road\Forest Road\bin\Debug\Forest Road.exe.config
+D:\code\Forest Road\Forest Road\bin\Debug\Forest Road.exe
+D:\code\Forest Road\Forest Road\bin\Debug\Forest Road.pdb
+D:\code\Forest Road\Forest Road\obj\Debug\Forest Road.csprojResolveAssemblyReference.cache
+D:\code\Forest Road\Forest Road\obj\Debug\Forest Road.exe
+D:\code\Forest Road\Forest Road\obj\Debug\Forest Road.pdb

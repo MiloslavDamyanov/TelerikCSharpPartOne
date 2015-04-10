@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe.config
+D:\code\3. Operators and Expressions\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.exe
+D:\code\3. Operators and Expressions\7. PrimeNumbers\bin\Debug\_7.PrimeNumbers.pdb
+D:\code\3. Operators and Expressions\7. PrimeNumbers\obj\Debug\7. PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.exe
+D:\code\3. Operators and Expressions\7. PrimeNumbers\obj\Debug\_7.PrimeNumbers.pdb

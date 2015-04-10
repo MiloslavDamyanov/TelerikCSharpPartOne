@@ -1,0 +1,6 @@
+D:\code\5. Conditional-Statements\5. DigitToString\bin\Debug\_5.DigitToString.exe.config
+D:\code\5. Conditional-Statements\5. DigitToString\bin\Debug\_5.DigitToString.exe
+D:\code\5. Conditional-Statements\5. DigitToString\bin\Debug\_5.DigitToString.pdb
+D:\code\5. Conditional-Statements\5. DigitToString\obj\Debug\5. DigitToString.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\5. DigitToString\obj\Debug\_5.DigitToString.exe
+D:\code\5. Conditional-Statements\5. DigitToString\obj\Debug\_5.DigitToString.pdb

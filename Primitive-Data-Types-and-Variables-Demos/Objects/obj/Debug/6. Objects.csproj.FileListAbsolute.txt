@@ -1,0 +1,5 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\Objects\bin\Debug\Objects.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Objects\bin\Debug\Objects.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\Objects\obj\Debug\6. Objects.csprojResolveAssemblyReference.cache
+D:\code\Primitive-Data-Types-and-Variables-Demos\Objects\obj\Debug\Objects.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Objects\obj\Debug\Objects.pdb

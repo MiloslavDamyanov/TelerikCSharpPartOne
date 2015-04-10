@@ -1,0 +1,6 @@
+D:\code\My\Exam My\Up-Down\Up-Down\bin\Debug\Up-Down.exe.config
+D:\code\My\Exam My\Up-Down\Up-Down\obj\Debug\Up-Down.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\Up-Down\Up-Down\bin\Debug\Up-Down.exe
+D:\code\My\Exam My\Up-Down\Up-Down\bin\Debug\Up-Down.pdb
+D:\code\My\Exam My\Up-Down\Up-Down\obj\Debug\Up-Down.exe
+D:\code\My\Exam My\Up-Down\Up-Down\obj\Debug\Up-Down.pdb

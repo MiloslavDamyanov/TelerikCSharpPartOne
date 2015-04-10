@@ -1,0 +1,6 @@
+D:\code\My\speed\speed\bin\Debug\speed.exe.config
+D:\code\My\speed\speed\bin\Debug\speed.exe
+D:\code\My\speed\speed\bin\Debug\speed.pdb
+D:\code\My\speed\speed\obj\Debug\speed.csprojResolveAssemblyReference.cache
+D:\code\My\speed\speed\obj\Debug\speed.exe
+D:\code\My\speed\speed\obj\Debug\speed.pdb

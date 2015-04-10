@@ -1,0 +1,6 @@
+D:\code\ToStringBin\ToStringBin\bin\Debug\ToStringBin.exe.config
+D:\code\ToStringBin\ToStringBin\bin\Debug\ToStringBin.exe
+D:\code\ToStringBin\ToStringBin\bin\Debug\ToStringBin.pdb
+D:\code\ToStringBin\ToStringBin\obj\Debug\ToStringBin.csprojResolveAssemblyReference.cache
+D:\code\ToStringBin\ToStringBin\obj\Debug\ToStringBin.exe
+D:\code\ToStringBin\ToStringBin\obj\Debug\ToStringBin.pdb

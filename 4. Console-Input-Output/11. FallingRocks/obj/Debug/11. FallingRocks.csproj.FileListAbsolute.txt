@@ -1,0 +1,9 @@
+D:\code\4. Console-Input-Output\11. FallingRocks\bin\Debug\_11.FallingRocks.exe.config
+D:\code\4. Console-Input-Output\11. FallingRocks\bin\Debug\_11.FallingRocks.exe
+D:\code\4. Console-Input-Output\11. FallingRocks\bin\Debug\_11.FallingRocks.pdb
+D:\code\4. Console-Input-Output\11. FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+D:\code\4. Console-Input-Output\11. FallingRocks\obj\Debug\_11.FallingRocks.exe
+D:\code\4. Console-Input-Output\11. FallingRocks\obj\Debug\_11.FallingRocks.pdb
+D:\code\C#1\4. Console-Input-Output\11. FallingRocks\bin\Debug\_11.FallingRocks.exe.config
+D:\code\C#1\4. Console-Input-Output\11. FallingRocks\obj\Debug\_11.FallingRocks.exe
+D:\code\C#1\4. Console-Input-Output\11. FallingRocks\obj\Debug\_11.FallingRocks.pdb

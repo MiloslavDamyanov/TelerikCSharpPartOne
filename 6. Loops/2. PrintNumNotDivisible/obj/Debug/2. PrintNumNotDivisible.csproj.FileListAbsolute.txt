@@ -1,0 +1,6 @@
+D:\code\6. Loops\2. PrintNumNotDivisible\bin\Debug\_2.PrintNumNotDivisible.exe.config
+D:\code\6. Loops\2. PrintNumNotDivisible\bin\Debug\_2.PrintNumNotDivisible.exe
+D:\code\6. Loops\2. PrintNumNotDivisible\bin\Debug\_2.PrintNumNotDivisible.pdb
+D:\code\6. Loops\2. PrintNumNotDivisible\obj\Debug\2. PrintNumNotDivisible.csprojResolveAssemblyReference.cache
+D:\code\6. Loops\2. PrintNumNotDivisible\obj\Debug\_2.PrintNumNotDivisible.exe
+D:\code\6. Loops\2. PrintNumNotDivisible\obj\Debug\_2.PrintNumNotDivisible.pdb

@@ -1,0 +1,6 @@
+D:\code\6. Loops\8. EuclideanAlgorithm\bin\Debug\_8.EuclideanAlgorithm.exe.config
+D:\code\6. Loops\8. EuclideanAlgorithm\bin\Debug\_8.EuclideanAlgorithm.exe
+D:\code\6. Loops\8. EuclideanAlgorithm\bin\Debug\_8.EuclideanAlgorithm.pdb
+D:\code\6. Loops\8. EuclideanAlgorithm\obj\Debug\8. EuclideanAlgorithm.csprojResolveAssemblyReference.cache
+D:\code\6. Loops\8. EuclideanAlgorithm\obj\Debug\_8.EuclideanAlgorithm.exe
+D:\code\6. Loops\8. EuclideanAlgorithm\obj\Debug\_8.EuclideanAlgorithm.pdb

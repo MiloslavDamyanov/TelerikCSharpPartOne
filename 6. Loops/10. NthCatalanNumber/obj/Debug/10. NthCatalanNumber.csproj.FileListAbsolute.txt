@@ -1,0 +1,5 @@
+D:\code\6. Loops\10. NthCatalanNumber\bin\Debug\_10.NthCatalanNumber.exe.config
+D:\code\6. Loops\10. NthCatalanNumber\bin\Debug\_10.NthCatalanNumber.exe
+D:\code\6. Loops\10. NthCatalanNumber\bin\Debug\_10.NthCatalanNumber.pdb
+D:\code\6. Loops\10. NthCatalanNumber\obj\Debug\_10.NthCatalanNumber.exe
+D:\code\6. Loops\10. NthCatalanNumber\obj\Debug\_10.NthCatalanNumber.pdb

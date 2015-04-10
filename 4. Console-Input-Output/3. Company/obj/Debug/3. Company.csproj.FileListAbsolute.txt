@@ -1,0 +1,5 @@
+D:\code\4. Console-Input-Output\3. Company\bin\Debug\_3.Company.exe.config
+D:\code\4. Console-Input-Output\3. Company\bin\Debug\_3.Company.exe
+D:\code\4. Console-Input-Output\3. Company\bin\Debug\_3.Company.pdb
+D:\code\4. Console-Input-Output\3. Company\obj\Debug\_3.Company.exe
+D:\code\4. Console-Input-Output\3. Company\obj\Debug\_3.Company.pdb

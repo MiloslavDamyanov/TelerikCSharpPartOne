@@ -1,0 +1,6 @@
+D:\code\My\MatrixArray\ForLoopMatrixEntry\bin\Debug\ForLoopMatrixEntry.exe.config
+D:\code\My\MatrixArray\ForLoopMatrixEntry\bin\Debug\ForLoopMatrixEntry.exe
+D:\code\My\MatrixArray\ForLoopMatrixEntry\bin\Debug\ForLoopMatrixEntry.pdb
+D:\code\My\MatrixArray\ForLoopMatrixEntry\obj\Debug\ForLoopMatrixEntry.csprojResolveAssemblyReference.cache
+D:\code\My\MatrixArray\ForLoopMatrixEntry\obj\Debug\ForLoopMatrixEntry.exe
+D:\code\My\MatrixArray\ForLoopMatrixEntry\obj\Debug\ForLoopMatrixEntry.pdb

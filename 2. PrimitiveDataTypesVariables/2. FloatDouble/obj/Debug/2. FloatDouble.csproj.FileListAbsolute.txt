@@ -1,0 +1,12 @@
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\bin\Debug\FloatDouble.exe.config
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\bin\Debug\FloatDouble.exe
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\bin\Debug\FloatDouble.pdb
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\obj\Debug\2. FloatDouble.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\obj\Debug\FloatDouble.exe
+D:\code\2. PrimitiveDataTypesVariables\FloatDouble\obj\Debug\FloatDouble.pdb
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\bin\Debug\FloatDouble.exe.config
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\obj\Debug\FloatDouble.exe
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\obj\Debug\FloatDouble.pdb
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\bin\Debug\FloatDouble.exe
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\bin\Debug\FloatDouble.pdb
+D:\code\2. PrimitiveDataTypesVariables\2. FloatDouble\obj\Debug\2. FloatDouble.csprojResolveAssemblyReference.cache

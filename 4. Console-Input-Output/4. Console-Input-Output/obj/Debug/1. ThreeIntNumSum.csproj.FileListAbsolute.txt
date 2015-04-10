@@ -1,0 +1,9 @@
+D:\code\4. Console-Input-Output\4. Console-Input-Output\bin\Debug\_4.Console_Input_Output.exe.config
+D:\code\4. Console-Input-Output\4. Console-Input-Output\bin\Debug\_4.Console_Input_Output.exe
+D:\code\4. Console-Input-Output\4. Console-Input-Output\bin\Debug\_4.Console_Input_Output.pdb
+D:\code\4. Console-Input-Output\4. Console-Input-Output\obj\Debug\1. ThreeIntNumSum.csprojResolveAssemblyReference.cache
+D:\code\4. Console-Input-Output\4. Console-Input-Output\obj\Debug\_4.Console_Input_Output.exe
+D:\code\4. Console-Input-Output\4. Console-Input-Output\obj\Debug\_4.Console_Input_Output.pdb
+D:\code\C#1\4. Console-Input-Output\4. Console-Input-Output\bin\Debug\_4.Console_Input_Output.exe.config
+D:\code\C#1\4. Console-Input-Output\4. Console-Input-Output\obj\Debug\_4.Console_Input_Output.exe
+D:\code\C#1\4. Console-Input-Output\4. Console-Input-Output\obj\Debug\_4.Console_Input_Output.pdb

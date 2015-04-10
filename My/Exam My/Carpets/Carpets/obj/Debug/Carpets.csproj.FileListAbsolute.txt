@@ -1,0 +1,6 @@
+D:\code\My\Exam My\Carpets\Carpets\bin\Debug\Carpets.exe.config
+D:\code\My\Exam My\Carpets\Carpets\bin\Debug\Carpets.exe
+D:\code\My\Exam My\Carpets\Carpets\bin\Debug\Carpets.pdb
+D:\code\My\Exam My\Carpets\Carpets\obj\Debug\Carpets.exe
+D:\code\My\Exam My\Carpets\Carpets\obj\Debug\Carpets.pdb
+D:\code\My\Exam My\Carpets\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache

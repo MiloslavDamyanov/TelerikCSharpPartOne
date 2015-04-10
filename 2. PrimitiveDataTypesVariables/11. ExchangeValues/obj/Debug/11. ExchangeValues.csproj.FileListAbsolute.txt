@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\bin\Debug\_11.ExchangeValues.exe.config
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\bin\Debug\_11.ExchangeValues.exe
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\bin\Debug\_11.ExchangeValues.pdb
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\obj\Debug\_11.ExchangeValues.exe
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\obj\Debug\_11.ExchangeValues.pdb
+D:\code\2. PrimitiveDataTypesVariables\11. ExchangeValues\obj\Debug\11. ExchangeValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\code\6. Loops\14. SpiralArrange\bin\Debug\_14.SpiralArrange.exe.config
+D:\code\6. Loops\14. SpiralArrange\bin\Debug\_14.SpiralArrange.exe
+D:\code\6. Loops\14. SpiralArrange\bin\Debug\_14.SpiralArrange.pdb
+D:\code\6. Loops\14. SpiralArrange\obj\Debug\_14.SpiralArrange.exe
+D:\code\6. Loops\14. SpiralArrange\obj\Debug\_14.SpiralArrange.pdb
+D:\code\C#1\6. Loops\14. SpiralArrange\bin\Debug\_14.SpiralArrange.exe.config
+D:\code\C#1\6. Loops\14. SpiralArrange\obj\Debug\_14.SpiralArrange.exe
+D:\code\C#1\6. Loops\14. SpiralArrange\obj\Debug\_14.SpiralArrange.pdb

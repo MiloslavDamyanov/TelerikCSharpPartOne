@@ -1,0 +1,5 @@
+D:\code\2. PrimitiveDataTypesVariables\10. EmployeesRecord\bin\Debug\_10.EmployeesRecord.exe.config
+D:\code\2. PrimitiveDataTypesVariables\10. EmployeesRecord\bin\Debug\_10.EmployeesRecord.exe
+D:\code\2. PrimitiveDataTypesVariables\10. EmployeesRecord\bin\Debug\_10.EmployeesRecord.pdb
+D:\code\2. PrimitiveDataTypesVariables\10. EmployeesRecord\obj\Debug\_10.EmployeesRecord.exe
+D:\code\2. PrimitiveDataTypesVariables\10. EmployeesRecord\obj\Debug\_10.EmployeesRecord.pdb

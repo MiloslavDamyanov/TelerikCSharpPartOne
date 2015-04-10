@@ -1,0 +1,12 @@
+D:\code\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+D:\code\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+D:\code\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+D:\code\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+D:\code\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.pdb
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.exe.config
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.exe
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.pdb
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.exe
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\bin\Debug\MathExpression.pdb
+D:\code\C#1\My\Exam My\MathExpression\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache

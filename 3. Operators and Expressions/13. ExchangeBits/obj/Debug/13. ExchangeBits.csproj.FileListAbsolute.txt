@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe.config
+D:\code\3. Operators and Expressions\13. ExchangeBits\obj\Debug\13. ExchangeBits.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe
+D:\code\3. Operators and Expressions\13. ExchangeBits\bin\Debug\_13.ExchangeBits.pdb
+D:\code\3. Operators and Expressions\13. ExchangeBits\obj\Debug\_13.ExchangeBits.exe
+D:\code\3. Operators and Expressions\13. ExchangeBits\obj\Debug\_13.ExchangeBits.pdb

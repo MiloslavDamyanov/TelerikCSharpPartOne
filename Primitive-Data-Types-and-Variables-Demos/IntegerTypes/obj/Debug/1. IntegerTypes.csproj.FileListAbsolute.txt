@@ -1,0 +1,5 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\IntegerTypes\bin\Debug\IntegerTypes.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\IntegerTypes\bin\Debug\IntegerTypes.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\1. IntegerTypes.csprojResolveAssemblyReference.cache
+D:\code\Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\IntegerTypes\obj\Debug\IntegerTypes.pdb

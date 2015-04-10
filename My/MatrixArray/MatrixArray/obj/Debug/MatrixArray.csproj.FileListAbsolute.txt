@@ -1,0 +1,6 @@
+D:\code\My\MatrixArray\MatrixArray\bin\Debug\MatrixArray.exe.config
+D:\code\My\MatrixArray\MatrixArray\bin\Debug\MatrixArray.exe
+D:\code\My\MatrixArray\MatrixArray\bin\Debug\MatrixArray.pdb
+D:\code\My\MatrixArray\MatrixArray\obj\Debug\MatrixArray.csprojResolveAssemblyReference.cache
+D:\code\My\MatrixArray\MatrixArray\obj\Debug\MatrixArray.exe
+D:\code\My\MatrixArray\MatrixArray\obj\Debug\MatrixArray.pdb

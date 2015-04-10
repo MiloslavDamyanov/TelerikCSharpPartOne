@@ -1,0 +1,10 @@
+D:\code\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.exe.config
+D:\code\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.exe
+D:\code\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.pdb
+D:\code\2. PrimitiveDataTypesVariables\6. BoolVariable\obj\Debug\_6.BoolVariable.exe
+D:\code\2. PrimitiveDataTypesVariables\6. BoolVariable\obj\Debug\_6.BoolVariable.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.exe.config
+D:\code\C#1\2. PrimitiveDataTypesVariables\6. BoolVariable\obj\Debug\_6.BoolVariable.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\6. BoolVariable\obj\Debug\_6.BoolVariable.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\6. BoolVariable\bin\Debug\_6.BoolVariable.pdb

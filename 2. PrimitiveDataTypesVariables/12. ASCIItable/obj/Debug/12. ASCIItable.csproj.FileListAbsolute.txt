@@ -1,0 +1,12 @@
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.exe.config
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.exe
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.pdb
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\_12.ASCIItable.exe
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\_12.ASCIItable.pdb
+D:\code\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\12. ASCIItable.csprojResolveAssemblyReference.cache
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.exe.config
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\_12.ASCIItable.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\_12.ASCIItable.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\bin\Debug\_12.ASCIItable.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\12. ASCIItable\obj\Debug\12. ASCIItable.csprojResolveAssemblyReference.cache

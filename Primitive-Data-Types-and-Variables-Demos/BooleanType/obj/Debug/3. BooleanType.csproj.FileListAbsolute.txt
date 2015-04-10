@@ -1,0 +1,4 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\BooleanType\bin\Debug\BooleanType.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\BooleanType\bin\Debug\BooleanType.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\BooleanType\obj\Debug\BooleanType.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\BooleanType\obj\Debug\BooleanType.pdb

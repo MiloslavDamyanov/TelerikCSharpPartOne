@@ -1,0 +1,6 @@
+D:\code\4. Console-Input-Output\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.exe.config
+D:\code\4. Console-Input-Output\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.exe
+D:\code\4. Console-Input-Output\7. SumOfNumbers\bin\Debug\_7.SumOfNumbers.pdb
+D:\code\4. Console-Input-Output\7. SumOfNumbers\obj\Debug\7. SumOfNumbers.csprojResolveAssemblyReference.cache
+D:\code\4. Console-Input-Output\7. SumOfNumbers\obj\Debug\_7.SumOfNumbers.exe
+D:\code\4. Console-Input-Output\7. SumOfNumbers\obj\Debug\_7.SumOfNumbers.pdb

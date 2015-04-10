@@ -1,0 +1,6 @@
+D:\code\My\LefLeft\LefLeft\bin\Debug\LefLeft.exe.config
+D:\code\My\LefLeft\LefLeft\bin\Debug\LefLeft.exe
+D:\code\My\LefLeft\LefLeft\bin\Debug\LefLeft.pdb
+D:\code\My\LefLeft\LefLeft\obj\Debug\LefLeft.csprojResolveAssemblyReference.cache
+D:\code\My\LefLeft\LefLeft\obj\Debug\LefLeft.exe
+D:\code\My\LefLeft\LefLeft\obj\Debug\LefLeft.pdb

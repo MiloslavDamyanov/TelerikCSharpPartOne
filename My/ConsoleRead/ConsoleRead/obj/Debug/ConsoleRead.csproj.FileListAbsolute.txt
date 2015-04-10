@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.exe
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.pdb
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.exe
+c:\users\user\documents\visual studio 2012\Projects\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.pdb
+D:\code\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.exe.config
+D:\code\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.exe
+D:\code\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.pdb
+D:\code\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.exe
+D:\code\ConsoleRead\ConsoleRead\bin\Debug\ConsoleRead.pdb
+D:\code\ConsoleRead\ConsoleRead\obj\Debug\ConsoleRead.csprojResolveAssemblyReference.cache

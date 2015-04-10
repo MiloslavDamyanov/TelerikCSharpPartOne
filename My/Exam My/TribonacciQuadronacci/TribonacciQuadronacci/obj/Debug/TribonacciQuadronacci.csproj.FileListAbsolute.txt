@@ -1,0 +1,6 @@
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\bin\Debug\TribonacciQuadronacci.exe.config
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\bin\Debug\TribonacciQuadronacci.exe
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\bin\Debug\TribonacciQuadronacci.pdb
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\obj\Debug\TribonacciQuadronacci.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\obj\Debug\TribonacciQuadronacci.exe
+D:\code\My\Exam My\TribonacciQuadronacci\TribonacciQuadronacci\obj\Debug\TribonacciQuadronacci.pdb

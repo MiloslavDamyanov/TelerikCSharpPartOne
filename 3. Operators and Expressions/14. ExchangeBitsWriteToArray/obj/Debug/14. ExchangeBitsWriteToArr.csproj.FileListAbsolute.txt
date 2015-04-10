@@ -1,0 +1,5 @@
+D:\code\3. Operators and Expressions\14. ExchangeBitsWriteToArray\bin\Debug\_14.ExchangeBitsWriteToArray.exe.config
+D:\code\3. Operators and Expressions\14. ExchangeBitsWriteToArray\bin\Debug\_14.ExchangeBitsWriteToArray.exe
+D:\code\3. Operators and Expressions\14. ExchangeBitsWriteToArray\bin\Debug\_14.ExchangeBitsWriteToArray.pdb
+D:\code\3. Operators and Expressions\14. ExchangeBitsWriteToArray\obj\Debug\_14.ExchangeBitsWriteToArray.exe
+D:\code\3. Operators and Expressions\14. ExchangeBitsWriteToArray\obj\Debug\_14.ExchangeBitsWriteToArray.pdb

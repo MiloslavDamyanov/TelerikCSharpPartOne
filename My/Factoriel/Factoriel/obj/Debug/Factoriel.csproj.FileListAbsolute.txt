@@ -1,0 +1,6 @@
+D:\code\My\Factoriel\Factoriel\bin\Debug\Factoriel.exe.config
+D:\code\My\Factoriel\Factoriel\bin\Debug\Factoriel.exe
+D:\code\My\Factoriel\Factoriel\bin\Debug\Factoriel.pdb
+D:\code\My\Factoriel\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+D:\code\My\Factoriel\Factoriel\obj\Debug\Factoriel.exe
+D:\code\My\Factoriel\Factoriel\obj\Debug\Factoriel.pdb

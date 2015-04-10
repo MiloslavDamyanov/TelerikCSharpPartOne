@@ -1,0 +1,5 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\bin\Debug\FloatingPointTypes.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\obj\Debug\2. FloatingPointTypes.csprojResolveAssemblyReference.cache
+D:\code\Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\obj\Debug\FloatingPointTypes.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\FloatingPointTypes\obj\Debug\FloatingPointTypes.pdb

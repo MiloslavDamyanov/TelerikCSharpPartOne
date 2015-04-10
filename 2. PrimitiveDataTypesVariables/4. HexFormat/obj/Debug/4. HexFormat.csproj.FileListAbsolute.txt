@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\bin\Debug\_4.IntToHex.exe.config
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\obj\Debug\_4.IntToHex.exe
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\obj\Debug\_4.IntToHex.pdb
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\bin\Debug\_4.IntToHex.exe
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\bin\Debug\_4.IntToHex.pdb
+D:\code\2. PrimitiveDataTypesVariables\4. HexFormat\obj\Debug\4. HexFormat.csprojResolveAssemblyReference.cache

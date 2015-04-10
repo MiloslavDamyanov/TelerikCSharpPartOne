@@ -1,0 +1,5 @@
+D:\code\ConsoleRead\Globalization\bin\Debug\Globalization.exe.config
+D:\code\ConsoleRead\Globalization\bin\Debug\Globalization.exe
+D:\code\ConsoleRead\Globalization\bin\Debug\Globalization.pdb
+D:\code\ConsoleRead\Globalization\obj\Debug\Globalization.exe
+D:\code\ConsoleRead\Globalization\obj\Debug\Globalization.pdb

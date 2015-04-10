@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\bin\Debug\_8.CalcTrapezoidArea.exe.config
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\bin\Debug\_8.CalcTrapezoidArea.exe
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\bin\Debug\_8.CalcTrapezoidArea.pdb
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\obj\Debug\8. CalcTrapezoidArea.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\obj\Debug\_8.CalcTrapezoidArea.exe
+D:\code\3. Operators and Expressions\8. CalcTrapezoidArea\obj\Debug\_8.CalcTrapezoidArea.pdb

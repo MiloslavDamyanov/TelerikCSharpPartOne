@@ -1,0 +1,4 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\StringLiterals\bin\Debug\StringLiterals.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\StringLiterals\bin\Debug\StringLiterals.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\StringLiterals\obj\Debug\StringLiterals.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\StringLiterals\obj\Debug\StringLiterals.pdb

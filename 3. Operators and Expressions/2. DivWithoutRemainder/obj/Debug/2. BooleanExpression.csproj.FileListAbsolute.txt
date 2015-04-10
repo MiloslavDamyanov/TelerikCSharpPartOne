@@ -1,0 +1,5 @@
+D:\code\3. Operators and Expressions\2. DivWithoutRemainder\bin\Debug\_2.DivWithoutRemainder.exe.config
+D:\code\3. Operators and Expressions\2. DivWithoutRemainder\bin\Debug\_2.DivWithoutRemainder.exe
+D:\code\3. Operators and Expressions\2. DivWithoutRemainder\bin\Debug\_2.DivWithoutRemainder.pdb
+D:\code\3. Operators and Expressions\2. DivWithoutRemainder\obj\Debug\_2.DivWithoutRemainder.exe
+D:\code\3. Operators and Expressions\2. DivWithoutRemainder\obj\Debug\_2.DivWithoutRemainder.pdb

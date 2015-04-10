@@ -1,0 +1,5 @@
+D:\code\2. PrimitiveDataTypesVariables\4. IntToHex\bin\Debug\_4.IntToHex.exe.config
+D:\code\2. PrimitiveDataTypesVariables\4. IntToHex\bin\Debug\_4.IntToHex.exe
+D:\code\2. PrimitiveDataTypesVariables\4. IntToHex\bin\Debug\_4.IntToHex.pdb
+D:\code\2. PrimitiveDataTypesVariables\4. IntToHex\obj\Debug\_4.IntToHex.exe
+D:\code\2. PrimitiveDataTypesVariables\4. IntToHex\obj\Debug\_4.IntToHex.pdb

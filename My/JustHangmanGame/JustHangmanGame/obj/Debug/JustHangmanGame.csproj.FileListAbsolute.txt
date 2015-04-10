@@ -1,0 +1,6 @@
+D:\code\My\JustHangmanGame\JustHangmanGame\bin\Debug\JustHangmanGame.exe.config
+D:\code\My\JustHangmanGame\JustHangmanGame\bin\Debug\JustHangmanGame.exe
+D:\code\My\JustHangmanGame\JustHangmanGame\bin\Debug\JustHangmanGame.pdb
+D:\code\My\JustHangmanGame\JustHangmanGame\obj\Debug\JustHangmanGame.csprojResolveAssemblyReference.cache
+D:\code\My\JustHangmanGame\JustHangmanGame\obj\Debug\JustHangmanGame.exe
+D:\code\My\JustHangmanGame\JustHangmanGame\obj\Debug\JustHangmanGame.pdb

@@ -1,0 +1,6 @@
+D:\code\My\Exam My\Trapezoid\Trapezoid\bin\Debug\Trapezoid.exe.config
+D:\code\My\Exam My\Trapezoid\Trapezoid\bin\Debug\Trapezoid.exe
+D:\code\My\Exam My\Trapezoid\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\code\My\Exam My\Trapezoid\Trapezoid\obj\Debug\Trapezoid.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\Trapezoid\Trapezoid\obj\Debug\Trapezoid.exe
+D:\code\My\Exam My\Trapezoid\Trapezoid\obj\Debug\Trapezoid.pdb

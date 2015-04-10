@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\9. CircleRectagle\bin\Debug\_9.CircleRectagle.exe.config
+D:\code\3. Operators and Expressions\9. CircleRectagle\bin\Debug\_9.CircleRectagle.exe
+D:\code\3. Operators and Expressions\9. CircleRectagle\bin\Debug\_9.CircleRectagle.pdb
+D:\code\3. Operators and Expressions\9. CircleRectagle\obj\Debug\9. isPointInCircleOutRectabgle.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\9. CircleRectagle\obj\Debug\_9.CircleRectagle.exe
+D:\code\3. Operators and Expressions\9. CircleRectagle\obj\Debug\_9.CircleRectagle.pdb

@@ -1,0 +1,6 @@
+D:\code\1. Intro Programming\CalcPrintSquare\bin\Debug\CalcPrintSquare.exe.config
+D:\code\1. Intro Programming\CalcPrintSquare\bin\Debug\CalcPrintSquare.exe
+D:\code\1. Intro Programming\CalcPrintSquare\bin\Debug\CalcPrintSquare.pdb
+D:\code\1. Intro Programming\CalcPrintSquare\obj\Debug\CalcPrintSquare.exe
+D:\code\1. Intro Programming\CalcPrintSquare\obj\Debug\CalcPrintSquare.pdb
+D:\code\1. Intro Programming\CalcPrintSquare\obj\Debug\5. CalcPrintSquare.csprojResolveAssemblyReference.cache

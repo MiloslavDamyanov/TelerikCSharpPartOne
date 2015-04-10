@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\bin\Debug\_11.ExtractBitPosition.exe.config
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\bin\Debug\_11.ExtractBitPosition.exe
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\bin\Debug\_11.ExtractBitPosition.pdb
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\obj\Debug\11. ExtractBitPosition.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\obj\Debug\_11.ExtractBitPosition.exe
+D:\code\3. Operators and Expressions\11. ExtractBitPosition\obj\Debug\_11.ExtractBitPosition.pdb

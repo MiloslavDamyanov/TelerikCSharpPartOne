@@ -1,0 +1,4 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\Strings\bin\Debug\Strings.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Strings\bin\Debug\Strings.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\Strings\obj\Debug\Strings.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Strings\obj\Debug\Strings.pdb

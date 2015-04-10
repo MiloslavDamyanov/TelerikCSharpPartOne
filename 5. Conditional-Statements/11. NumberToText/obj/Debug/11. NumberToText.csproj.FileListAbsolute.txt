@@ -1,0 +1,9 @@
+D:\code\5. Conditional-Statements\11. NumberToText\bin\Debug\_11.NumberToText.exe.config
+D:\code\5. Conditional-Statements\11. NumberToText\obj\Debug\11. NumberToText.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\11. NumberToText\bin\Debug\_11.NumberToText.exe
+D:\code\5. Conditional-Statements\11. NumberToText\bin\Debug\_11.NumberToText.pdb
+D:\code\5. Conditional-Statements\11. NumberToText\obj\Debug\_11.NumberToText.exe
+D:\code\5. Conditional-Statements\11. NumberToText\obj\Debug\_11.NumberToText.pdb
+D:\code\C#1\5. Conditional-Statements\11. NumberToText\bin\Debug\_11.NumberToText.exe.config
+D:\code\C#1\5. Conditional-Statements\11. NumberToText\obj\Debug\_11.NumberToText.exe
+D:\code\C#1\5. Conditional-Statements\11. NumberToText\obj\Debug\_11.NumberToText.pdb

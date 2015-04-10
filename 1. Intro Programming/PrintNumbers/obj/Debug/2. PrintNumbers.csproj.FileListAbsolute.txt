@@ -1,0 +1,6 @@
+D:\code\1. Intro Programming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\code\1. Intro Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\code\1. Intro Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\code\1. Intro Programming\PrintNumbers\obj\Debug\2. PrintNumbers.csprojResolveAssemblyReference.cache
+D:\code\1. Intro Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\code\1. Intro Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb

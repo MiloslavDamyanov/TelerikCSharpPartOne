@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\10. bitAtPosition\bin\Debug\_10.bitAtPosition.exe.config
+D:\code\3. Operators and Expressions\10. bitAtPosition\obj\Debug\10. bitAtPosition.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\10. bitAtPosition\bin\Debug\_10.bitAtPosition.exe
+D:\code\3. Operators and Expressions\10. bitAtPosition\bin\Debug\_10.bitAtPosition.pdb
+D:\code\3. Operators and Expressions\10. bitAtPosition\obj\Debug\_10.bitAtPosition.exe
+D:\code\3. Operators and Expressions\10. bitAtPosition\obj\Debug\_10.bitAtPosition.pdb

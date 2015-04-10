@@ -1,0 +1,5 @@
+D:\code\My\binaryDigitCount\binaryDigitCount\bin\Debug\binaryDigitCount.exe.config
+D:\code\My\binaryDigitCount\binaryDigitCount\bin\Debug\binaryDigitCount.exe
+D:\code\My\binaryDigitCount\binaryDigitCount\bin\Debug\binaryDigitCount.pdb
+D:\code\My\binaryDigitCount\binaryDigitCount\obj\Debug\binaryDigitCount.exe
+D:\code\My\binaryDigitCount\binaryDigitCount\obj\Debug\binaryDigitCount.pdb

@@ -1,0 +1,6 @@
+D:\code\My\Exam My\DancingBits\DancingBits\bin\Debug\DancingBits.exe.config
+D:\code\My\Exam My\DancingBits\DancingBits\bin\Debug\DancingBits.exe
+D:\code\My\Exam My\DancingBits\DancingBits\bin\Debug\DancingBits.pdb
+D:\code\My\Exam My\DancingBits\DancingBits\obj\Debug\DancingBits.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\DancingBits\DancingBits\obj\Debug\DancingBits.exe
+D:\code\My\Exam My\DancingBits\DancingBits\obj\Debug\DancingBits.pdb

@@ -1,0 +1,6 @@
+D:\code\My\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+D:\code\My\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+D:\code\My\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+D:\code\My\DataTypes\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+D:\code\My\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+D:\code\My\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

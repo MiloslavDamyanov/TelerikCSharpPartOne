@@ -1,0 +1,6 @@
+D:\code\My\Exam My\FighterAttack\FighterAttack\bin\Debug\FighterAttack.exe.config
+D:\code\My\Exam My\FighterAttack\FighterAttack\bin\Debug\FighterAttack.exe
+D:\code\My\Exam My\FighterAttack\FighterAttack\bin\Debug\FighterAttack.pdb
+D:\code\My\Exam My\FighterAttack\FighterAttack\obj\Debug\FighterAttack.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\FighterAttack\FighterAttack\obj\Debug\FighterAttack.exe
+D:\code\My\Exam My\FighterAttack\FighterAttack\obj\Debug\FighterAttack.pdb

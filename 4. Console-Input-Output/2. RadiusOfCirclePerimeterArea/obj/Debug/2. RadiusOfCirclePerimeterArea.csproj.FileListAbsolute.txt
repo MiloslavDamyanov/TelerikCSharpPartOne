@@ -1,0 +1,6 @@
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\bin\Debug\_2.RadiusOfCirclePerimeterArea.exe.config
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\bin\Debug\_2.RadiusOfCirclePerimeterArea.exe
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\bin\Debug\_2.RadiusOfCirclePerimeterArea.pdb
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\obj\Debug\2. RadiusOfCirclePerimeterArea.csprojResolveAssemblyReference.cache
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\obj\Debug\_2.RadiusOfCirclePerimeterArea.exe
+D:\code\4. Console-Input-Output\2. RadiusOfCirclePerimeterArea\obj\Debug\_2.RadiusOfCirclePerimeterArea.pdb

@@ -1,0 +1,6 @@
+D:\code\My\SumOneToN\SumOneToN\bin\Debug\SumOneToN.exe.config
+D:\code\My\SumOneToN\SumOneToN\bin\Debug\SumOneToN.exe
+D:\code\My\SumOneToN\SumOneToN\bin\Debug\SumOneToN.pdb
+D:\code\My\SumOneToN\SumOneToN\obj\Debug\SumOneToN.csprojResolveAssemblyReference.cache
+D:\code\My\SumOneToN\SumOneToN\obj\Debug\SumOneToN.exe
+D:\code\My\SumOneToN\SumOneToN\obj\Debug\SumOneToN.pdb

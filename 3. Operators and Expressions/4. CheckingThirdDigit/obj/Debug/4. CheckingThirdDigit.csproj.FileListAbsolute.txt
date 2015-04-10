@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\bin\Debug\_4.CheckingThirdDigit.exe.config
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\bin\Debug\_4.CheckingThirdDigit.exe
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\bin\Debug\_4.CheckingThirdDigit.pdb
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\obj\Debug\_4.CheckingThirdDigit.exe
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\obj\Debug\_4.CheckingThirdDigit.pdb
+D:\code\3. Operators and Expressions\4. CheckingThirdDigit\obj\Debug\4. CheckingThirdDigit.csprojResolveAssemblyReference.cache

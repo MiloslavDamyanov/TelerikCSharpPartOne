@@ -1,0 +1,6 @@
+D:\code\6. Loops\12. Matrix\bin\Debug\_12.Matrix.exe.config
+D:\code\6. Loops\12. Matrix\bin\Debug\_12.Matrix.exe
+D:\code\6. Loops\12. Matrix\bin\Debug\_12.Matrix.pdb
+D:\code\6. Loops\12. Matrix\obj\Debug\_12.Matrix.exe
+D:\code\6. Loops\12. Matrix\obj\Debug\_12.Matrix.pdb
+D:\code\6. Loops\12. Matrix\obj\Debug\12. Matrix.csprojResolveAssemblyReference.cache

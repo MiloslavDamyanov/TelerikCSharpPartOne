@@ -1,0 +1,5 @@
+D:\code\1. Intro Programming\DateTime\bin\Debug\DateTime.exe.config
+D:\code\1. Intro Programming\DateTime\bin\Debug\DateTime.exe
+D:\code\1. Intro Programming\DateTime\bin\Debug\DateTime.pdb
+D:\code\1. Intro Programming\DateTime\obj\Debug\DateTime.exe
+D:\code\1. Intro Programming\DateTime\obj\Debug\DateTime.pdb

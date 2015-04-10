@@ -1,0 +1,6 @@
+D:\code\My\JustSnake\Falling rocks\bin\Debug\Falling rocks.exe.config
+D:\code\My\JustSnake\Falling rocks\bin\Debug\Falling rocks.exe
+D:\code\My\JustSnake\Falling rocks\bin\Debug\Falling rocks.pdb
+D:\code\My\JustSnake\Falling rocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+D:\code\My\JustSnake\Falling rocks\obj\Debug\Falling rocks.exe
+D:\code\My\JustSnake\Falling rocks\obj\Debug\Falling rocks.pdb

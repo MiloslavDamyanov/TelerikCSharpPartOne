@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciQuadronacci", "TribonacciQuadronacci\TribonacciQuadronacci.csproj", "{F146927A-DD97-4FEE-B8FF-374A8CE443CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadronocci-rectangular", "Quadronocci\Quadronocci-rectangular.csproj", "{46BBB89D-07EF-4ECD-B1BF-10BDE801AD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F146927A-DD97-4FEE-B8FF-374A8CE443CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F146927A-DD97-4FEE-B8FF-374A8CE443CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F146927A-DD97-4FEE-B8FF-374A8CE443CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F146927A-DD97-4FEE-B8FF-374A8CE443CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BBB89D-07EF-4ECD-B1BF-10BDE801AD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BBB89D-07EF-4ECD-B1BF-10BDE801AD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BBB89D-07EF-4ECD-B1BF-10BDE801AD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BBB89D-07EF-4ECD-B1BF-10BDE801AD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

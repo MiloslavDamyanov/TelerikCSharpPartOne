@@ -1,0 +1,6 @@
+D:\code\My\JustSnake\JustSnake\bin\Debug\JustSnake.exe.config
+D:\code\My\JustSnake\JustSnake\obj\Debug\JustSnake.csprojResolveAssemblyReference.cache
+D:\code\My\JustSnake\JustSnake\bin\Debug\JustSnake.exe
+D:\code\My\JustSnake\JustSnake\bin\Debug\JustSnake.pdb
+D:\code\My\JustSnake\JustSnake\obj\Debug\JustSnake.exe
+D:\code\My\JustSnake\JustSnake\obj\Debug\JustSnake.pdb

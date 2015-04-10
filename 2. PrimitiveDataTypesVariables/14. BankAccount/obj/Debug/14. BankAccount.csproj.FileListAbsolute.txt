@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\bin\Debug\_14.BankAccount.exe.config
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\bin\Debug\_14.BankAccount.exe
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\bin\Debug\_14.BankAccount.pdb
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\obj\Debug\_14.BankAccount.exe
+D:\code\2. PrimitiveDataTypesVariables\14. BankAccount\obj\Debug\_14.BankAccount.pdb

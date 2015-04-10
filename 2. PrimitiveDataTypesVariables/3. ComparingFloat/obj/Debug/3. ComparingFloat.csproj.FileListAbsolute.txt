@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\bin\Debug\_3.ComparingFloat.exe.config
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\bin\Debug\_3.ComparingFloat.exe
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\bin\Debug\_3.ComparingFloat.pdb
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\obj\Debug\3. ComparingFloat.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\obj\Debug\_3.ComparingFloat.exe
+D:\code\2. PrimitiveDataTypesVariables\3. ComparingFloat\obj\Debug\_3.ComparingFloat.pdb

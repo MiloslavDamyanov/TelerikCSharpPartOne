@@ -1,0 +1,6 @@
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\bin\Debug\BitwizeOperators.exe.config
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\bin\Debug\BitwizeOperators.exe
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\bin\Debug\BitwizeOperators.pdb
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\obj\Debug\BitwizeOperators.csprojResolveAssemblyReference.cache
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\obj\Debug\BitwizeOperators.exe
+c:\Users\User\documents\visual studio 2012\Projects\Array\BitwizeOperators\obj\Debug\BitwizeOperators.pdb

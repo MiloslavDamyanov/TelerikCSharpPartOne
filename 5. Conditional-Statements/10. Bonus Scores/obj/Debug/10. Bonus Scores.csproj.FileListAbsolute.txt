@@ -1,0 +1,6 @@
+D:\code\5. Conditional-Statements\10. Bonus Scores\bin\Debug\_10.Bonus_Scores.exe.config
+D:\code\5. Conditional-Statements\10. Bonus Scores\bin\Debug\_10.Bonus_Scores.exe
+D:\code\5. Conditional-Statements\10. Bonus Scores\bin\Debug\_10.Bonus_Scores.pdb
+D:\code\5. Conditional-Statements\10. Bonus Scores\obj\Debug\10. Bonus Scores.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\10. Bonus Scores\obj\Debug\_10.Bonus_Scores.exe
+D:\code\5. Conditional-Statements\10. Bonus Scores\obj\Debug\_10.Bonus_Scores.pdb

@@ -1,0 +1,5 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\Characters\bin\Debug\Characters.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Characters\bin\Debug\Characters.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\Characters\obj\Debug\Characters.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\Characters\obj\Debug\Characters.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\Characters\obj\Debug\4. CharacterType.csprojResolveAssemblyReference.cache

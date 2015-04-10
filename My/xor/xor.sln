@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xor", "xor\xor.csproj", "{AFDAF7F7-F36E-442E-984F-1C5B8DF4EA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDAF7F7-F36E-442E-984F-1C5B8DF4EA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDAF7F7-F36E-442E-984F-1C5B8DF4EA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDAF7F7-F36E-442E-984F-1C5B8DF4EA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDAF7F7-F36E-442E-984F-1C5B8DF4EA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\code\My\Exam My\xor\xor\bin\Debug\xor.exe.config
+D:\code\My\Exam My\xor\xor\bin\Debug\xor.exe
+D:\code\My\Exam My\xor\xor\bin\Debug\xor.pdb
+D:\code\My\Exam My\xor\xor\obj\Debug\xor.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\xor\xor\obj\Debug\xor.exe
+D:\code\My\Exam My\xor\xor\obj\Debug\xor.pdb

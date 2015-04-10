@@ -1,0 +1,6 @@
+D:\code\My\Exam My\OddNumber\OddNumber\bin\Debug\OddNumber.exe.config
+D:\code\My\Exam My\OddNumber\OddNumber\bin\Debug\OddNumber.exe
+D:\code\My\Exam My\OddNumber\OddNumber\bin\Debug\OddNumber.pdb
+D:\code\My\Exam My\OddNumber\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\OddNumber\OddNumber\obj\Debug\OddNumber.exe
+D:\code\My\Exam My\OddNumber\OddNumber\obj\Debug\OddNumber.pdb

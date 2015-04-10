@@ -1,0 +1,6 @@
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojResolveAssemblyReference.cache
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+D:\code\My\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb

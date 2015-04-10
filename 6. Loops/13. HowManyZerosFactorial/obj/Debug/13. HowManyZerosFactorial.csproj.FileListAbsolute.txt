@@ -1,0 +1,1 @@
+D:\code\6. Loops\13. HowManyZerosFactorial\bin\Debug\_13.HowManyZerosFactorial.exe.config

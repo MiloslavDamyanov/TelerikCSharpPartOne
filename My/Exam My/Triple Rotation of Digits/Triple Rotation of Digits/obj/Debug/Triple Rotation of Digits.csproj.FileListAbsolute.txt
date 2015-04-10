@@ -1,0 +1,6 @@
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.exe.config
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.exe
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\bin\Debug\Triple Rotation of Digits.pdb
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.exe
+D:\code\My\Exam My\Triple Rotation of Digits\Triple Rotation of Digits\obj\Debug\Triple Rotation of Digits.pdb

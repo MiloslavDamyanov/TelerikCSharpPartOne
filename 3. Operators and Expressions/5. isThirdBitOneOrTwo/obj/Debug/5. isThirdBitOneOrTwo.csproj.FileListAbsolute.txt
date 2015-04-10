@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\bin\Debug\_5.isThirdBitOneOrTwo.exe.config
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\bin\Debug\_5.isThirdBitOneOrTwo.exe
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\bin\Debug\_5.isThirdBitOneOrTwo.pdb
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\obj\Debug\_5.isThirdBitOneOrTwo.exe
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\obj\Debug\_5.isThirdBitOneOrTwo.pdb
+D:\code\3. Operators and Expressions\5. isThirdBitOneOrTwo\obj\Debug\5. isThirdBitOneOrTwo.csprojResolveAssemblyReference.cache

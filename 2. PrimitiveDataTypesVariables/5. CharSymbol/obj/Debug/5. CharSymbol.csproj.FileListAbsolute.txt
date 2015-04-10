@@ -1,0 +1,12 @@
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.exe.config
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.exe
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.pdb
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\_5.CharSymbol.exe
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\_5.CharSymbol.pdb
+D:\code\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\5. CharSymbol.csprojResolveAssemblyReference.cache
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.exe.config
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\_5.CharSymbol.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\_5.CharSymbol.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\bin\Debug\_5.CharSymbol.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\5. CharSymbol\obj\Debug\5. CharSymbol.csprojResolveAssemblyReference.cache

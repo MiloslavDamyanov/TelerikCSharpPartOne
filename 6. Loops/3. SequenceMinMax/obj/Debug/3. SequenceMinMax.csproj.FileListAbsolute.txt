@@ -1,0 +1,5 @@
+D:\code\6. Loops\3. SequenceMinMax\bin\Debug\_3.SequenceMinMax.exe.config
+D:\code\6. Loops\3. SequenceMinMax\bin\Debug\_3.SequenceMinMax.exe
+D:\code\6. Loops\3. SequenceMinMax\bin\Debug\_3.SequenceMinMax.pdb
+D:\code\6. Loops\3. SequenceMinMax\obj\Debug\_3.SequenceMinMax.exe
+D:\code\6. Loops\3. SequenceMinMax\obj\Debug\_3.SequenceMinMax.pdb

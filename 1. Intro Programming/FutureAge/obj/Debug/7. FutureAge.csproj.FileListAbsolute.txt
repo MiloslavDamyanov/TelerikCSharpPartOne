@@ -1,0 +1,6 @@
+D:\code\1. Intro Programming\FutureAge\bin\Debug\FutureAge.exe.config
+D:\code\1. Intro Programming\FutureAge\bin\Debug\FutureAge.exe
+D:\code\1. Intro Programming\FutureAge\bin\Debug\FutureAge.pdb
+D:\code\1. Intro Programming\FutureAge\obj\Debug\7. FutureAge.csprojResolveAssemblyReference.cache
+D:\code\1. Intro Programming\FutureAge\obj\Debug\FutureAge.exe
+D:\code\1. Intro Programming\FutureAge\obj\Debug\FutureAge.pdb

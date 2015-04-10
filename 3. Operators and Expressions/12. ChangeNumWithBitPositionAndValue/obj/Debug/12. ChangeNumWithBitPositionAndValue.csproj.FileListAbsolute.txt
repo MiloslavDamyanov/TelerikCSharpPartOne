@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\bin\Debug\_12.ChangeNumWithBitPositionAndValue.exe.config
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\bin\Debug\_12.ChangeNumWithBitPositionAndValue.exe
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\bin\Debug\_12.ChangeNumWithBitPositionAndValue.pdb
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\obj\Debug\12. ChangeNumWithBitPositionAndValue.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\obj\Debug\_12.ChangeNumWithBitPositionAndValue.exe
+D:\code\3. Operators and Expressions\12. ChangeNumWithBitPositionAndValue\obj\Debug\_12.ChangeNumWithBitPositionAndValue.pdb

@@ -1,0 +1,5 @@
+D:\code\My\MatrixArray\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.exe.config
+D:\code\My\MatrixArray\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.exe
+D:\code\My\MatrixArray\ReadMatrixFromConsole\bin\Debug\ReadMatrixFromConsole.pdb
+D:\code\My\MatrixArray\ReadMatrixFromConsole\obj\Debug\ReadMatrixFromConsole.exe
+D:\code\My\MatrixArray\ReadMatrixFromConsole\obj\Debug\ReadMatrixFromConsole.pdb

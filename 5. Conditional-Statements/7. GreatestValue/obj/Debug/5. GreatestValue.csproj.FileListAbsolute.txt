@@ -1,0 +1,6 @@
+D:\code\5. Conditional-Statements\5. GreatestValue\bin\Debug\_5.GreatestValue.exe.config
+D:\code\5. Conditional-Statements\5. GreatestValue\bin\Debug\_5.GreatestValue.exe
+D:\code\5. Conditional-Statements\5. GreatestValue\bin\Debug\_5.GreatestValue.pdb
+D:\code\5. Conditional-Statements\5. GreatestValue\obj\Debug\5. GreatestValue.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\5. GreatestValue\obj\Debug\_5.GreatestValue.exe
+D:\code\5. Conditional-Statements\5. GreatestValue\obj\Debug\_5.GreatestValue.pdb

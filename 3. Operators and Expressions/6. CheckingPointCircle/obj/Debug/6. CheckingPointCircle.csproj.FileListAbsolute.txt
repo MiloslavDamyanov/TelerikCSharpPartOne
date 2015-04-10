@@ -1,0 +1,6 @@
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\bin\Debug\_6.CheckingPointCircle.exe.config
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\bin\Debug\_6.CheckingPointCircle.exe
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\bin\Debug\_6.CheckingPointCircle.pdb
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\obj\Debug\6. CheckingPointCircle.csprojResolveAssemblyReference.cache
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\obj\Debug\_6.CheckingPointCircle.exe
+D:\code\3. Operators and Expressions\6. CheckingPointCircle\obj\Debug\_6.CheckingPointCircle.pdb

@@ -1,0 +1,6 @@
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\bin\Debug\_8.IntDoubleOrStringInput.exe.config
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\bin\Debug\_8.IntDoubleOrStringInput.exe
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\bin\Debug\_8.IntDoubleOrStringInput.pdb
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\obj\Debug\8. IntDoubleOrStringInput.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\obj\Debug\_8.IntDoubleOrStringInput.exe
+D:\code\5. Conditional-Statements\8. IntDoubleOrStringInput\obj\Debug\_8.IntDoubleOrStringInput.pdb

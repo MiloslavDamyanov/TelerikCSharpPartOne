@@ -1,0 +1,6 @@
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\bin\Debug\_2.PositiveOrNegative.exe.config
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\bin\Debug\_2.PositiveOrNegative.exe
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\bin\Debug\_2.PositiveOrNegative.pdb
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\obj\Debug\2. PositiveOrNegative.csprojResolveAssemblyReference.cache
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\obj\Debug\_2.PositiveOrNegative.exe
+D:\code\5. Conditional-Statements\2. PositiveOrNegative\obj\Debug\_2.PositiveOrNegative.pdb

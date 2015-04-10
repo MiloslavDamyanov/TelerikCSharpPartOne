@@ -1,0 +1,16 @@
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\bin\Debug\_2.PrimitiveDataTypesVariables.exe.config
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\bin\Debug\_2.PrimitiveDataTypesVariables.exe
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\bin\Debug\_2.PrimitiveDataTypesVariables.pdb
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\obj\Debug\1. Variables.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\obj\Debug\_2.PrimitiveDataTypesVariables.exe
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\obj\Debug\_2.PrimitiveDataTypesVariables.pdb
+D:\code\2. PrimitiveDataTypesVariables\2. PrimitiveDataTypesVariables\bin\Debug\Variables.exe.config
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\bin\Debug\Variables.exe.config
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\bin\Debug\Variables.exe
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\bin\Debug\Variables.pdb
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\obj\Debug\1. Variables.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\obj\Debug\Variables.exe
+D:\code\2. PrimitiveDataTypesVariables\1. Variables\obj\Debug\Variables.pdb
+D:\code\C#1\2. PrimitiveDataTypesVariables\1. Variables\bin\Debug\Variables.exe.config
+D:\code\C#1\2. PrimitiveDataTypesVariables\1. Variables\obj\Debug\Variables.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\1. Variables\obj\Debug\Variables.pdb

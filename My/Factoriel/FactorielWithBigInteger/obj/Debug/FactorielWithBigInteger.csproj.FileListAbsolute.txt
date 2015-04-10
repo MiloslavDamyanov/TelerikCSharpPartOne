@@ -1,0 +1,6 @@
+D:\code\My\Factoriel\FactorielWithBigInteger\bin\Debug\FactorielWithBigInteger.exe.config
+D:\code\My\Factoriel\FactorielWithBigInteger\bin\Debug\FactorielWithBigInteger.exe
+D:\code\My\Factoriel\FactorielWithBigInteger\bin\Debug\FactorielWithBigInteger.pdb
+D:\code\My\Factoriel\FactorielWithBigInteger\obj\Debug\FactorielWithBigInteger.csprojResolveAssemblyReference.cache
+D:\code\My\Factoriel\FactorielWithBigInteger\obj\Debug\FactorielWithBigInteger.exe
+D:\code\My\Factoriel\FactorielWithBigInteger\obj\Debug\FactorielWithBigInteger.pdb

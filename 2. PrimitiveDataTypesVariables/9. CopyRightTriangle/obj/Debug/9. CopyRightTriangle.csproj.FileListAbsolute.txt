@@ -1,0 +1,9 @@
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.exe.config
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.exe
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.pdb
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.exe
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.pdb
+D:\code\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\obj\Debug\9. CopyRightTriangle.csprojResolveAssemblyReference.cache
+D:\code\C#1\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\bin\Debug\_9.CopyRightTriangle.exe.config
+D:\code\C#1\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.exe
+D:\code\C#1\2. PrimitiveDataTypesVariables\9. CopyRightTriangle\obj\Debug\_9.CopyRightTriangle.pdb

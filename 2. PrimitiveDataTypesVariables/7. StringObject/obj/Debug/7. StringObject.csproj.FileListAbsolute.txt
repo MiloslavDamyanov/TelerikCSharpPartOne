@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\bin\Debug\_7.StringObject.exe.config
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\obj\Debug\7. StringObject.csprojResolveAssemblyReference.cache
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\bin\Debug\_7.StringObject.exe
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\bin\Debug\_7.StringObject.pdb
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\obj\Debug\_7.StringObject.exe
+D:\code\2. PrimitiveDataTypesVariables\7. StringObject\obj\Debug\_7.StringObject.pdb

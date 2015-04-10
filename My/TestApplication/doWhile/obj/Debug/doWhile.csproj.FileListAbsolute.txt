@@ -1,0 +1,5 @@
+D:\code\My\TestApplication\doWhile\bin\Debug\doWhile.exe.config
+D:\code\My\TestApplication\doWhile\bin\Debug\doWhile.exe
+D:\code\My\TestApplication\doWhile\bin\Debug\doWhile.pdb
+D:\code\My\TestApplication\doWhile\obj\Debug\doWhile.exe
+D:\code\My\TestApplication\doWhile\obj\Debug\doWhile.pdb

@@ -1,0 +1,5 @@
+D:\code\1. Intro Programming\3. FirstAndLastName\bin\Debug\_3.FirstAndLastName.exe.config
+D:\code\1. Intro Programming\3. FirstAndLastName\bin\Debug\_3.FirstAndLastName.exe
+D:\code\1. Intro Programming\3. FirstAndLastName\bin\Debug\_3.FirstAndLastName.pdb
+D:\code\1. Intro Programming\3. FirstAndLastName\obj\Debug\_3.FirstAndLastName.exe
+D:\code\1. Intro Programming\3. FirstAndLastName\obj\Debug\_3.FirstAndLastName.pdb

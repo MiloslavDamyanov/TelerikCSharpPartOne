@@ -1,0 +1,6 @@
+D:\code\My\Exam My\Sand-glass\Sand-glass\bin\Debug\Sand-glass.exe.config
+D:\code\My\Exam My\Sand-glass\Sand-glass\bin\Debug\Sand-glass.exe
+D:\code\My\Exam My\Sand-glass\Sand-glass\bin\Debug\Sand-glass.pdb
+D:\code\My\Exam My\Sand-glass\Sand-glass\obj\Debug\Sand-glass.csprojResolveAssemblyReference.cache
+D:\code\My\Exam My\Sand-glass\Sand-glass\obj\Debug\Sand-glass.exe
+D:\code\My\Exam My\Sand-glass\Sand-glass\obj\Debug\Sand-glass.pdb

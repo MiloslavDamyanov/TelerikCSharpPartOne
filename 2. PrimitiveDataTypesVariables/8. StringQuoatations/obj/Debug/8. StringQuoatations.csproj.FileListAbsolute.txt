@@ -1,0 +1,6 @@
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\bin\Debug\_8.StringQuoatations.exe.config
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\bin\Debug\_8.StringQuoatations.exe
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\bin\Debug\_8.StringQuoatations.pdb
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\obj\Debug\_8.StringQuoatations.exe
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\obj\Debug\_8.StringQuoatations.pdb
+D:\code\2. PrimitiveDataTypesVariables\8. StringQuoatations\obj\Debug\8. StringQuoatations.csprojResolveAssemblyReference.cache

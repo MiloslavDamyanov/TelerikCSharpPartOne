@@ -1,0 +1,6 @@
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\bin\Debug\_4.DivToFiveWithoutReminder.exe.config
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\bin\Debug\_4.DivToFiveWithoutReminder.exe
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\bin\Debug\_4.DivToFiveWithoutReminder.pdb
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\obj\Debug\4. DivToFiveWithoutReminder.csprojResolveAssemblyReference.cache
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\obj\Debug\_4.DivToFiveWithoutReminder.exe
+D:\code\4. Console-Input-Output\4. DivToFiveWithoutReminder\obj\Debug\_4.DivToFiveWithoutReminder.pdb

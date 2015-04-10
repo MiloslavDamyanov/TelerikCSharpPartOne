@@ -1,0 +1,6 @@
+D:\code\1. Intro Programming\6. NumSequence\bin\Debug\_6.NumSequence.exe.config
+D:\code\1. Intro Programming\6. NumSequence\bin\Debug\_6.NumSequence.exe
+D:\code\1. Intro Programming\6. NumSequence\bin\Debug\_6.NumSequence.pdb
+D:\code\1. Intro Programming\6. NumSequence\obj\Debug\6. NumSequence.csprojResolveAssemblyReference.cache
+D:\code\1. Intro Programming\6. NumSequence\obj\Debug\_6.NumSequence.exe
+D:\code\1. Intro Programming\6. NumSequence\obj\Debug\_6.NumSequence.pdb

@@ -1,0 +1,4 @@
+D:\code\Primitive-Data-Types-and-Variables-Demos\AssigningValues\bin\Debug\AssigningValues.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\AssigningValues\bin\Debug\AssigningValues.pdb
+D:\code\Primitive-Data-Types-and-Variables-Demos\AssigningValues\obj\Debug\AssigningValues.exe
+D:\code\Primitive-Data-Types-and-Variables-Demos\AssigningValues\obj\Debug\AssigningValues.pdb
